@@ -1,5 +1,3 @@
-# Hi, I'm Althaf 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hi,%20I'm%20Althaf&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Building%20Products%20from%20UI%20to%20API&descSize=18&descAlignY=65" width="100%" />
@@ -86,18 +84,30 @@ I'm continuously improving my skills by building real projects and exploring mod
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlthafEA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="97%" />
 
-<br><br>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlthafEA/AlthafEA/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlthafEA/AlthafEA/output/github-contribution-grid-snake.svg" />
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlthafEA/AlthafEA/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/AlthafEA/AlthafEA/output/github-contribution-grid-snake.svg"
+/> </picture>
 
 </div>
 
@@ -109,6 +119,8 @@ I'm continuously improving my skills by building real projects and exploring mod
 | --------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**SneakerLocal**](https://github.com/AlthafEA/BE-SneakerLocal) | E-commerce backend platform for shoes and sandals | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white) |
 
+<br>
+
 > More projects are available on my [GitHub profile](https://github.com/AlthafEA).
 
 ---
@@ -118,6 +130,8 @@ I'm continuously improving my skills by building real projects and exploring mod
 <div align="center">
 
 Feel free to reach out for collaboration, projects, or tech discussions.
+
+<br>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:emeralthaf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/althaf-emeraldy-0889b9416/)
@@ -131,6 +145,6 @@ Feel free to reach out for collaboration, projects, or tech discussions.
 
 ### Building. Learning. Improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=100&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=100&section=footer" width="100%" />
