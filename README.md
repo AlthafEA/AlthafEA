@@ -84,11 +84,13 @@ I'm continuously improving my skills by building real projects and exploring mod
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlthafEA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="97%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlthafEA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&count_private=true" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=AlthafEA&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165" />
 
 </div>
 
